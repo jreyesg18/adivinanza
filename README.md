@@ -14,3 +14,20 @@ Este es un sencillo juego de adivinanza de números implementado en HTML, CSS y 
 
    ```sh
    git clone https://github.com/tu-usuario/tu-repositorio.git
+
+2. **Navegar al Directorio del Proyecto**
+
+sh
+Copiar código
+cd tu-repositorio
+
+3. **Abrir el Archivo HTML en un Navegador**
+
+Abre index.html en tu navegador web preferido para empezar a jugar.
+
+## Estructura del Proyecto
+
+**index.html:** Estructura principal del juego.
+**styles.css:** Estilos para el diseño del juego (incrustados en el archivo HTML).
+**script.js:** Lógica del juego (incrustados en el archivo HTML).
+
